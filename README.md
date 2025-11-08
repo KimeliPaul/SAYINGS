@@ -1,2 +1,1 @@
-# SAYINGS
-PHILOSOPHICAL QUOTES
+<iframe src="https://claude.site/public/artifacts/3fa46ebe-3ca8-4b61-9953-ef5723875d26/embed" title="Claude Artifact" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
